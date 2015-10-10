@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/huandu/facebook",
+			"revision": "e7512237e5dc620be55f6bd9ab2d75e7ebbb914c",
+			"revisionTime": "2015-08-17T18:09:54+08:00"
+		},
+		{
+			"path": "golang.org/x/net/context",
+			"revision": "01256db42e5106196a3473ec1620727a383500e8",
+			"revisionTime": "2015-10-02T11:57:39+10:00"
+		},
+		{
+			"path": "golang.org/x/oauth2",
+			"revision": "2fbf3d7329d847b125188ad64b68cfb1f548938a",
+			"revisionTime": "2015-09-29T18:24:17-06:00"
+		},
+		{
+			"path": "golang.org/x/oauth2/facebook",
+			"revision": "2fbf3d7329d847b125188ad64b68cfb1f548938a",
+			"revisionTime": "2015-09-29T18:24:17-06:00"
+		},
+		{
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "2fbf3d7329d847b125188ad64b68cfb1f548938a",
+			"revisionTime": "2015-09-29T18:24:17-06:00"
+		}
+	]
+}
